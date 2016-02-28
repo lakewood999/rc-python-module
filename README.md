@@ -1,3 +1,3 @@
 # servesium
-Servesium Core Files
-Downloads and Support
+Servesium Core Files,
+Downloads, and Support
