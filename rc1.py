@@ -8,7 +8,6 @@
 import hashlib
 import os
 import math
-#test mods---Multicommands----Use a while loop
 def shell():
     #Below is a WIP, put everything under the internal shell to reutrn after command execution
     import string
@@ -16,8 +15,6 @@ def shell():
     global user
     global ac
     global rel
-    user = "user"
-    #afsfasfaf = input("What is the password?")
         
     def internal():
         action = input(user+"@testshell:~$")
